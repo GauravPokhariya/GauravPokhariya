@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GauravPokhariya
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently Working as a Full Stack Developer
 - 📫 How to reach me pokhariya1896@gmail.com
 
 <!---
